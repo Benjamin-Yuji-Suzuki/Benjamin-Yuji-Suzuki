@@ -1,6 +1,6 @@
 # Olá, eu sou o Benjamin Yuji Suzuki 👋
 
-🎓 **Estudante de Ciência da Computação** | Sou estudante e monitor de máterias. 
+🎓 **Estudante de Ciência da Computação** | Sou estudante e monitor de matérias. 
 
 ---
 
@@ -12,7 +12,15 @@ Acredito que a melhor forma de aprender é ensinando.
 | :--- | :--- | :--- | :--- |
 | **Atualmente** | Monitor | Algoritmos e Codificação de Sistemas | C |
 | **Atualmente** | Monitor | Programação de Software | C |
-| **2025 - 2026** | Monitor | Programação Orientada a Objetos | Java |
+| **2025 - Atualmente** | Monitor | Programação Orientada a Objetos | Java |
+
+---
+
+## 🎯 Desafios de Lógica & Programação
+
+Estou constantemente praticando e melhorando minhas habilidades de resolução de algoritmos. Você pode acompanhar meu progresso e submissões através do meu perfil no **Beecrowd**:
+
+[![Beecrowd](https://img.shields.io/badge/Acessar_meu_perfil_no-Beecrowd-%232C3E50.svg?style=for-the-badge)](https://judge.beecrowd.com/pt/profile/1205370)
 
 ---
 
