@@ -1,12 +1,12 @@
 # Olá, eu sou o Benjamin Yuji Suzuki 👋
 
-🎓 **Estudante de Ciência da Computação** | Sou apaixonado por resolver problemas lógicos, construir algoritmos eficientes e compartilhar conhecimento. Tenho um forte foco em desenvolvimento back-end e em consolidar a base da engenharia de software através do ensino.
+🎓 **Estudante de Ciência da Computação** | Sou estudante e monitor de máterias. 
 
 ---
 
 ## 👨‍🏫 Experiência Acadêmica e Mentoria
 
-Acredito que a melhor forma de aprender é ensinando. Tenho atuado ativamente na universidade para ajudar outros alunos a dominarem a lógica e a estruturação de sistemas.
+Acredito que a melhor forma de aprender é ensinando. 
 
 | Período | Cargo | Disciplina | Tecnologia |
 | :--- | :--- | :--- | :--- |
@@ -18,7 +18,7 @@ Acredito que a melhor forma de aprender é ensinando. Tenho atuado ativamente na
 
 ## 💻 Tecnologias e Ferramentas
 
-Minha linguagem de maior domínio e confiança é o **Java**, fortemente consolidada pela minha experiência acadêmica e com Orientação a Objetos. Também possuo facilidade de transitar entre linguagens de baixo e alto nível.
+Minha linguagem de maior domínio e confiança é o **Java**
 
 ### 📚 Estudando Atualmente
 No momento, estou focando meus estudos e expandindo meus conhecimentos em **Rust**, construindo aplicações de terminal, resolvendo problemas de lógica e explorando conceitos de alta performance e segurança de memória.
