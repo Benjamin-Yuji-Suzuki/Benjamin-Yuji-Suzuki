@@ -1,6 +1,6 @@
 # Olá, eu sou o Benjamin Yuji Suzuki 👋
 
-🎓 **Estudante de Ciência da Computação** Sou apaixonado por resolver problemas lógicos, construir algoritmos eficientes e compartilhar conhecimento. Tenho um forte foco em desenvolvimento back-end e em consolidar a base da engenharia de software através do ensino.
+🎓 **Estudante de Ciência da Computação** | Sou apaixonado por resolver problemas lógicos, construir algoritmos eficientes e compartilhar conhecimento. Tenho um forte foco em desenvolvimento back-end e em consolidar a base da engenharia de software através do ensino.
 
 ---
 
@@ -18,14 +18,18 @@ Acredito que a melhor forma de aprender é ensinando. Tenho atuado ativamente na
 
 ## 💻 Tecnologias e Ferramentas
 
-Minha linguagem de maior domínio e confiança é o **Java**, fortemente consolidada pela minha experiência com Orientação a Objetos. Também possuo facilidade de transitar entre linguagens de baixo e alto nível.
+Minha linguagem de maior domínio e confiança é o **Java**, fortemente consolidada pela minha experiência acadêmica e com Orientação a Objetos. Também possuo facilidade de transitar entre linguagens de baixo e alto nível.
 
-### 🏆 Linguagem Principal
+### 📚 Estudando Atualmente
+No momento, estou focando meus estudos e expandindo meus conhecimentos em **Rust**, construindo aplicações de terminal, resolvendo problemas de lógica e explorando conceitos de alta performance e segurança de memória.
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+### 🏆 Linguagem Principal (Maior Confiança)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### ⚙️ Outras Linguagens e Banco de Dados
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -36,9 +40,4 @@ Minha linguagem de maior domínio e confiança é o **Java**, fortemente consoli
 
 ---
 
-> *"Ensinar é aprender duas vezes."* ```
-
-### Como ver a mágica acontecer:
-Quando você colar isso no seu GitHub e for na aba **Preview** (Pré-visualização), vai ver que todos aqueles links esquisitos do `img.shields.io` vão se transformar em botões coloridos perfeitos com as logos do Java, C, Rust, Python, etc.
-
-**Gostou dessa estrutura? Quer que eu adicione uma seção extra no final de "Contatos" para você colocar o seu LinkedIn e e-mail, ou quer deixar focado apenas na parte técnica por enquanto?**
+> *"Ensinar é aprender duas vezes."*
