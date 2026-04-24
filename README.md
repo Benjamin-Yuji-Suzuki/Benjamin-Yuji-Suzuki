@@ -10,9 +10,9 @@ Acredito que a melhor forma de aprender é ensinando.
 
 | Período | Cargo | Disciplina | Tecnologia |
 | :--- | :--- | :--- | :--- |
-| **Atualmente** | Monitor | Algoritmos e Codificação de Sistemas | C |
-| **Atualmente** | Monitor | Programação de Software | C |
-| **2025 - Atualmente** | Monitor | Programação Orientada a Objetos | Java |
+| **2026.03 - Atualmente** | Monitor | Algoritmos e Codificação de Sistemas | C |
+| **2026.03 - Atualmente** | Monitor | Programação de Software | C |
+| **2025.03 - Atualmente** | Monitor | Programação Orientada a Objetos | Java |
 
 ---
 
