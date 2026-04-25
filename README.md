@@ -26,6 +26,9 @@ Estou constantemente praticando e aprimorando minhas habilidades de resolução 
 ### Codewars
 [![Codewars](https://www.codewars.com/users/Benjamin-Yuji-Suzuki/badges/large)](https://www.codewars.com/users/Benjamin-Yuji-Suzuki)
 
+### Roadmap-Rust-Personalizado.
+[![Roadmap Rust](https://img.shields.io/badge/Roadmap_Rust-Em_Progresso-E24B4A?style=flat-square&logo=rust&logoColor=white)](https://github.com/Benjamin-Yuji-Suzuki/roadmap-rust)
+[![Nível 1](https://img.shields.io/badge/Nível_1-0%2F20_tópicos-orange?style=flat-square)](https://github.com/Benjamin-Yuji-Suzuki/roadmap-rust#-nível-1--iniciante-1-ao-20)
 
 ---
 
