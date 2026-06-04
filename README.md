@@ -6,9 +6,7 @@
 
 </div>
 
----
-
-## 👨‍🎓 Sobre mim
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e35b2a&height=60&text=👨‍🎓%20Sobre%20mim&fontSize=24&fontColor=ffffff" width="100%"/>
 
 🎓 Estudante de **Ciência da Computação** e monitor de disciplinas no curso.
 Acredito que a melhor forma de aprender é ensinando.
@@ -17,9 +15,7 @@ Acredito que a melhor forma de aprender é ensinando.
 
 🎮 No tempo livre: jogos, ferramentas de terminal e código de baixo nível com arte interativa.
 
----
-
-## 👨‍🏫 Monitoria
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e35b2a&height=60&text=👨‍🏫%20Monitoria&fontSize=24&fontColor=ffffff" width="100%"/>
 
 | Período | Disciplina | Tecnologia |
 | :--- | :--- | :--- |
@@ -27,16 +23,18 @@ Acredito que a melhor forma de aprender é ensinando.
 | **2026.03 - Atualmente** | Programação de Software | C |
 | **2025.03 - Atualmente** | Programação Orientada a Objetos | Java |
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e35b2a&height=60&text=🏅%20Desafios%20de%20Logica%20e%20Programacao&fontSize=20&fontColor=ffffff" width="100%"/>
 
-## 🦀 Rust — Foco Principal
+[![Codewars](https://www.codewars.com/users/Benjamin-Yuji-Suzuki/badges/large)](https://www.codewars.com/users/Benjamin-Yuji-Suzuki)
+
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-Perfil-2C3E50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)](https://judge.beecrowd.com/pt/profile/1205370)
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e35b2a&height=60&text=🦀%20Rust%20—%20Foco%20Principal&fontSize=24&fontColor=ffffff" width="100%"/>
 
 [![Roadmap Rust](https://img.shields.io/badge/Roadmap_Rust-Em_Progresso-e35b2a?style=flat-square&logo=rust&logoColor=white)](https://github.com/Benjamin-Yuji-Suzuki/roadmap-rust)
 [![Nível 1](https://img.shields.io/badge/Nível_1-0%2F20_tópicos-orange?style=flat-square)](https://github.com/Benjamin-Yuji-Suzuki/roadmap-rust#-nível-1--iniciante-1-ao-20)
 
----
-
-## 🎮 Game Dev & Ferramentas
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e35b2a&height=60&text=🎮%20Game%20Dev%20e%20Ferramentas&fontSize=24&fontColor=ffffff" width="100%"/>
 
 | Ferramenta | O que estou fazendo |
 | :--- | :--- |
@@ -48,20 +46,18 @@ Tenho um jogo publicado no itch.io: **[meu deus um sapo 🐸](https://benjaminyu
 
 [![itch.io](https://img.shields.io/badge/itch.io-benjaminyujisuzuki-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://benjaminyujisuzuki.itch.io)
 
----
-
-## 🚀 Projeto em Destaque
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e35b2a&height=60&text=🚀%20Projeto%20em%20Destaque&fontSize=24&fontColor=ffffff" width="100%"/>
 
 [![logicfuzzy-academic](https://img.shields.io/badge/logicfuzzy--academic-Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Benjamin-Yuji-Suzuki/logicfuzzy-academic)
 
----
-
-## 💻 Tecnologias
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e35b2a&height=60&text=💻%20Tecnologias&fontSize=24&fontColor=ffffff" width="100%"/>
 
 ### 🦀 Rust & Ecossistema
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Cargo](https://img.shields.io/badge/cargo-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![Leptos](https://img.shields.io/badge/Leptos-frontend-e35b2a?style=for-the-badge&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-backend-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 🎮 Game Dev
 ![Bevy](https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white)
@@ -80,16 +76,6 @@ Tenho um jogo publicado no itch.io: **[meu deus um sapo 🐸](https://benjaminyu
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
----
-
-## 🏅 Desafios de Lógica & Programação
-
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-Perfil-2C3E50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)](https://judge.beecrowd.com/pt/profile/1205370)
-
-[![Codewars](https://www.codewars.com/users/Benjamin-Yuji-Suzuki/badges/large)](https://www.codewars.com/users/Benjamin-Yuji-Suzuki)
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e35b2a&height=80&section=footer" width="100%"/>
