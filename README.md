@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e35b2a&height=120&section=header&text=Benjamin%20Yuji%20Suzuki&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=indie%20dev%20·%20game%20dev%20·%20open%20source&descAlignY=68&descSize=14&descColor=aaaaaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e35b2a&height=120&section=header&text=Benjamin%20Yuji%20Suzuki&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=game%20dev%20·%20full%20stack%20dev%20🦀%20·%20open%20source&descAlignY=68&descSize=14&descColor=aaaaaa" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=e35b2a&center=true&vCenter=true&width=500&lines=Estudante+de+Ciência+da+Computação;Aprendendo+Rust+do+zero+ao+avançado;Indie+dev+em+construção+🎮)](https://git.io/typing-svg)
 
@@ -83,30 +83,9 @@ Tenho um jogo publicado no itch.io: **[meu deus um sapo 🐸](https://benjaminyu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Benjamin-Yuji-Suzuki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=e35b2a&icon_color=e35b2a&text_color=d4d8e8" />
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Benjamin-Yuji-Suzuki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=e35b2a&text_color=d4d8e8" />
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Benjamin-Yuji-Suzuki&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🏅 Desafios de Lógica & Programação
 
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-Perfil-%232C3E50.svg?style=flat-square)](https://judge.beecrowd.com/pt/profile/1205370)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-Perfil-2C3E50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)](https://judge.beecrowd.com/pt/profile/1205370)
 
 [![Codewars](https://www.codewars.com/users/Benjamin-Yuji-Suzuki/badges/large)](https://www.codewars.com/users/Benjamin-Yuji-Suzuki)
 
