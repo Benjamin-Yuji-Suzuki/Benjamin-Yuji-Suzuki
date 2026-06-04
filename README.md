@@ -17,7 +17,7 @@ Acredito que a melhor forma de aprender é ensinando.
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=e35b2a&height=60&text=👨‍🏫%20Monitoria&fontSize=24&fontColor=ffffff" width="100%"/>
 
-| Período | Disciplina | Tecnologia |
+| Período | Disciplina | Linguagens |
 | :--- | :--- | :--- |
 | **2026.03 - Atualmente** | Algoritmos e Codificação de Sistemas | C |
 | **2026.03 - Atualmente** | Programação de Software | C |
