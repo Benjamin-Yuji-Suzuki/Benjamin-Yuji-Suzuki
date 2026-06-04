@@ -1,17 +1,52 @@
-# Olá, eu sou o Benjamin Yuji Suzuki 👋
-🎓 **Estudante de Ciência da Computação** | Monitor de matérias no curso de CC.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e35b2a&height=120&section=header&text=Benjamin%20Yuji%20Suzuki&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=indie%20dev%20·%20game%20dev%20·%20open%20source&descAlignY=68&descSize=14&descColor=aaaaaa" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=e35b2a&center=true&vCenter=true&width=500&lines=Estudante+de+Ciência+da+Computação;Aprendendo+Rust+do+zero+ao+avançado;Indie+dev+em+construção+🎮)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 👨‍🏫 Experiência Acadêmica e Monitoria
+## 👨‍🎓 Sobre mim
 
+🎓 Estudante de **Ciência da Computação** e monitor de disciplinas no curso.
 Acredito que a melhor forma de aprender é ensinando.
 
-| Período | Cargo | Disciplina | Tecnologia |
-| :--- | :--- | :--- | :--- |
-| **2026.03 - Atualmente** | Monitor | Algoritmos e Codificação de Sistemas | C |
-| **2026.03 - Atualmente** | Monitor | Programação de Software | C |
-| **2025.03 - Atualmente** | Monitor | Programação Orientada a Objetos | Java |
+🦀 Atualmente focado em **Rust** — seguindo um roadmap próprio, do básico ao avançado, com projetos reais em cada etapa.
+
+🎮 No tempo livre: jogos, ferramentas de terminal e código de baixo nível com arte interativa.
+
+---
+
+## 👨‍🏫 Monitoria
+
+| Período | Disciplina | Tecnologia |
+| :--- | :--- | :--- |
+| **2026.03 - Atualmente** | Algoritmos e Codificação de Sistemas | C |
+| **2026.03 - Atualmente** | Programação de Software | C |
+| **2025.03 - Atualmente** | Programação Orientada a Objetos | Java |
+
+---
+
+## 🦀 Rust — Foco Principal
+
+[![Roadmap Rust](https://img.shields.io/badge/Roadmap_Rust-Em_Progresso-e35b2a?style=flat-square&logo=rust&logoColor=white)](https://github.com/Benjamin-Yuji-Suzuki/roadmap-rust)
+[![Nível 1](https://img.shields.io/badge/Nível_1-0%2F20_tópicos-orange?style=flat-square)](https://github.com/Benjamin-Yuji-Suzuki/roadmap-rust#-nível-1--iniciante-1-ao-20)
+
+---
+
+## 🎮 Game Dev & Ferramentas
+
+| Ferramenta | O que estou fazendo |
+| :--- | :--- |
+| 🎮 **Bevy** | Game engine em Rust com arquitetura ECS — aprendendo na prática |
+| 🧊 **Blender** | Modelagem 3D e criação de assets à mão, do zero |
+| 🗺 **TrenchBroom** | Editor de mapas BSP — explorando level design |
+
+Tenho um jogo publicado no itch.io: **[meu deus um sapo 🐸](https://benjaminyujisuzuki.itch.io/sapos)**
+
+[![itch.io](https://img.shields.io/badge/itch.io-benjaminyujisuzuki-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://benjaminyujisuzuki.itch.io)
 
 ---
 
@@ -21,30 +56,19 @@ Acredito que a melhor forma de aprender é ensinando.
 
 ---
 
-## 🏆 Desafios de Lógica & Programação
+## 💻 Tecnologias
 
-Estou constantemente praticando e aprimorando minhas habilidades de resolução de algoritmos. Acompanhe meu progresso nos perfis abaixo:
-
-### Beecrowd
-[![Beecrowd](https://img.shields.io/badge/Acessar_meu_perfil_no-Beecrowd-%232C3E50.svg?style=for-the-badge)](https://judge.beecrowd.com/pt/profile/1205370)
-
-### Codewars
-[![Codewars](https://www.codewars.com/users/Benjamin-Yuji-Suzuki/badges/large)](https://www.codewars.com/users/Benjamin-Yuji-Suzuki)
-
-### Roadmap-Rust-Personalizado.
-[![Roadmap Rust](https://img.shields.io/badge/Roadmap_Rust-Em_Progresso-E24B4A?style=flat-square&logo=rust&logoColor=white)](https://github.com/Benjamin-Yuji-Suzuki/roadmap-rust)
-[![Nível 1](https://img.shields.io/badge/Nível_1-0%2F20_tópicos-orange?style=flat-square)](https://github.com/Benjamin-Yuji-Suzuki/roadmap-rust#-nível-1--iniciante-1-ao-20)
-
----
-
-## 💻 Tecnologias e Ferramentas
-
-### 📚 Estudando Atualmente
-Focado em **Rust** — construindo aplicações de terminal, resolvendo problemas de lógica e explorando conceitos de alta performance e segurança de memória.
-
+### 🦀 Rust & Ecossistema
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Cargo](https://img.shields.io/badge/cargo-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 
-### 🏆 Linguagem Principal (Maior Confiança)
+### 🎮 Game Dev
+![Bevy](https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![TrenchBroom](https://img.shields.io/badge/TrenchBroom-level_design-5b9cf6?style=for-the-badge)
+
+### 🏆 Linguagem Principal
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### ⚙️ Outras Linguagens e Banco de Dados
@@ -59,4 +83,37 @@ Focado em **Rust** — construindo aplicações de terminal, resolvendo problema
 
 ---
 
-> *"Ensinar é aprender duas vezes."*
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Benjamin-Yuji-Suzuki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=e35b2a&icon_color=e35b2a&text_color=d4d8e8" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Benjamin-Yuji-Suzuki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=e35b2a&text_color=d4d8e8" />
+
+</div>
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Benjamin-Yuji-Suzuki&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🏅 Desafios de Lógica & Programação
+
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-Perfil-%232C3E50.svg?style=flat-square)](https://judge.beecrowd.com/pt/profile/1205370)
+
+[![Codewars](https://www.codewars.com/users/Benjamin-Yuji-Suzuki/badges/large)](https://www.codewars.com/users/Benjamin-Yuji-Suzuki)
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e35b2a&height=80&section=footer" width="100%"/>
+
+*"Ensinar é aprender duas vezes."*
+</div>
