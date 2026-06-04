@@ -36,7 +36,7 @@ Acredito que a melhor forma de aprender é ensinando.
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=e35b2a&height=60&text=🎮%20Game%20Dev%20e%20Ferramentas&fontSize=24&fontColor=ffffff" width="100%"/>
 
-| Ferramenta | O que estou fazendo |
+| Ferramenta | Descrição |
 | :--- | :--- |
 | 🎮 **Bevy** | Game engine em Rust com arquitetura ECS — aprendendo na prática |
 | 🧊 **Blender** | Modelagem 3D e criação de assets à mão, do zero |
