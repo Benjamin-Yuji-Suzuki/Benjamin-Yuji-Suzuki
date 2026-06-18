@@ -19,8 +19,8 @@ Acredito que a melhor forma de aprender é ensinando.
 
 | Período | Disciplina | Linguagens |
 | :--- | :--- | :--- |
-| **2026.03 - Atualmente** | Algoritmos e Codificação de Sistemas | C |
-| **2026.03 - Atualmente** | Programação de Software | C |
+| **2026.03 - 2026.06** | Algoritmos e Codificação de Sistemas | C |
+| **2026.03 - 2026.06** | Programação de Software | C |
 | **2025.03 - Atualmente** | Programação Orientada a Objetos | Java |
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=e35b2a&height=60&text=🏅%20Desafios%20de%20Logica%20e%20Programacao&fontSize=20&fontColor=ffffff" width="100%"/>
